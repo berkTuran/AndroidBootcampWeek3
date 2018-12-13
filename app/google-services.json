@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197939094222",
+    "firebase_url": "https://androidbootcampweek3.firebaseio.com",
+    "project_id": "androidbootcampweek3",
+    "storage_bucket": "androidbootcampweek3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197939094222:android:1bae88bf9520bde2",
+        "android_client_info": {
+          "package_name": "com.berkturan.androidbootcampweek3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197939094222-fianggos4oee8qenocubtemq5qelq5c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berkturan.androidbootcampweek3",
+            "certificate_hash": "fd2eceaaa78c819ada45c95f1987e04d35bbaa24"
+          }
+        },
+        {
+          "client_id": "197939094222-km7o2o1c1djr7r908ajca44l9mkdcu5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwvDeHbTNzaquAWPDG17KBgE4sVLIZM0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197939094222-km7o2o1c1djr7r908ajca44l9mkdcu5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
