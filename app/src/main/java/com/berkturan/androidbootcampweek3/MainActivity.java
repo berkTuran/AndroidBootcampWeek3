@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         EmailEditText = findViewById(R.id.EmailEditText); PasswordEditText = findViewById(R.id.PasswordEditText);
         SignInButton = findViewById(R.id.SignInButton); SignUpButton = findViewById(R.id.SignUpButton);
         mAuth = FirebaseAuth.getInstance();
-        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        FirebaseUser user = mAuth.getCurrentUser();
         if (user != null) {
             updateUI(user);
         } else {

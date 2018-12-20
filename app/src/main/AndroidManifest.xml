@@ -18,6 +18,9 @@
         </activity>
         <activity android:name=".GamePlace" />
         <activity android:name=".ScoreActivity"></activity>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4708612837484976~7927547599"/>
     </application>
 
 </manifest>
